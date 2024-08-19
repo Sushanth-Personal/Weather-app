@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/d75e7871-fbda-4362-8582-a03cda346d96
 # Live Demo
 
 ![image](https://github.com/user-attachments/assets/d75e7871-fbda-4362-8582-a03cda346d96)
-
+<img src="[(https://github.com/user-attachments/assets/d75e7871-fbda-4362-8582-a03cda346d96)]" alt="Weather App Screenshot" width="600">
 # Features
 **Responsive Design:** The app is fully responsive, ensuring an optimal user experience on both mobile and desktop devices.
 
