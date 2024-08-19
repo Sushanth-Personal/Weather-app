@@ -39,5 +39,7 @@ https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=1221s
 
 # How to Use
 Clone the repository to your local machine.
+
 Open index.html in your preferred browser.
-Enter a city name in the input field and click the search button or press Enter to get the current weather information.
+
+Enter a city name in the input field and **click the search button** or **press Enter** to get the current weather information.
