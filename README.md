@@ -1,8 +1,8 @@
 # Weather App
 This is a fully responsive weather application that provides current weather data for any city using the OpenWeatherMap API. The app adapts to different screen sizes through the use of media queries.
 # Live Demo
-
-#Features
+https://sushanth-personal.github.io/Weather-app/
+# Features
 **Responsive Design:** The app is fully responsive, ensuring an optimal user experience on both mobile and desktop devices.
 
 **API Integration:** Fetches weather data from the OpenWeatherMap API.
@@ -40,4 +40,4 @@ https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=1221s
 # How to Use
 Clone the repository to your local machine.
 Open index.html in your preferred browser.
-Enter a city name in the input field to get the current weather information.
+Enter a city name in the input field and click the search button or press Enter to get the current weather information.
