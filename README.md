@@ -3,7 +3,8 @@ This is a fully responsive weather application that provides current weather dat
 
 https://github.com/user-attachments/assets/d75e7871-fbda-4362-8582-a03cda346d96
 # Live Demo
-![Weather-app](https://sushanth-personal.github.io/Weather-app/)
+
+![image](https://github.com/user-attachments/assets/d75e7871-fbda-4362-8582-a03cda346d96)
 
 # Features
 **Responsive Design:** The app is fully responsive, ensuring an optimal user experience on both mobile and desktop devices.
