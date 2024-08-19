@@ -3,6 +3,7 @@ This is a fully responsive weather application that provides current weather dat
 
 https://github.com/user-attachments/assets/d75e7871-fbda-4362-8582-a03cda346d96
 # Live Demo
+https://sushanth-personal.github.io/Weather-app/
 
 ![image](https://github.com/user-attachments/assets/060f3b35-9867-46ab-ac28-54375df26e64)
 
