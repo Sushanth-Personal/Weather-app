@@ -40,6 +40,7 @@ The importance of responsive design and how to implement it using media queries.
 # Acknowledgements
 This project was created with inspiration from a tutorial on a YouTube channel. Special thanks to the creator for providing such a valuable learning resource. Watch the Tutorial
 
+https://www.youtube.com/watch?v=zs1Nq2s_uy4
 # How to Use
 Clone the repository to your local machine.
 Install dependencies using npm install.
